@@ -1,6 +1,6 @@
 {
   "name": "barteh-aspnet-make",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "borna mehr fann co. make asp.net project",
   "main": "index.js",
   "scripts": {
