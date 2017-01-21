@@ -5,4 +5,4 @@
   A nodejs project
 ```
 
-### <span style="color:green">Author: Ahad Rafat Talebi<span>
+#### Author: Ahad Rafat Talebi
