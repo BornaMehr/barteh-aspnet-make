@@ -1,0 +1,28 @@
+{
+  "name": "barteh-aspnet-make",
+  "version": "1.0.0",
+  "description": "borna mehr fann co. make asp.net project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BornaMehr/barteh-aspnet-make.git"
+  },
+  "keywords": [
+    "make",
+    "barteh",
+    "bornamehrfann",
+    "bornamehr",
+    "برنا",
+    "مهر",
+    "فن"
+  ],
+  "author": "Ahad Rafat Talebi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BornaMehr/barteh-aspnet-make/issues"
+  },
+  "homepage": "https://github.com/BornaMehr/barteh-aspnet-make#readme"
+}
