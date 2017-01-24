@@ -16,18 +16,18 @@ var deleteFolderRecursive = function (path) {
     }
 };
 
-exports.make = function (name, version,dirs) {
+exports.make = function (name, version,dist,dirs) {
     console.log('================ creating dist directories ========>>>>');
 
     
 
-    var t = fs.existsSync('./dist');
+    var t = fs.existsSync(dist);
     if (!t) {
-        fs.mkdirSync('./dist');
+        fs.mkdirSync(dist);
         console.log('dist directory created');
     }
 
-    var fp = './dist/' + name + '-' + version;
+    var fp = dist + name + '-' + version;
 
     deleteFolderRecursive(fp);
 
